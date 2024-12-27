@@ -1,0 +1,90 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <ImageView
+            android:id="@+id/imageViewDetail"
+            android:layout_width="match_parent"
+            android:layout_height="461dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/gunung_rinjani" />
+
+        <TextView
+            android:id="@+id/textViewTitleDetail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            tools:text="Gunung Rinjani" />
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="8dp" />
+
+        <TextView
+            android:id="@+id/textViewGeography"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            tools:text="Lombok Utara, Nusa Tenggara Barat, Indonesia." />
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="20dp" />
+
+        <TextView
+            android:id="@+id/textViewPeakHeight"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:text="Ketinggian Puncak  : 3.726 MDPL." />
+
+        <TextView
+            android:id="@+id/textViewMountainType"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:text="Jenis Gunung           : Stratovolcano aktif." />
+
+        <TextView
+            android:id="@+id/textViewLowestTemperature"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:text="Suhu Terdingin         : 5°C" />
+
+        <TextView
+            android:id="@+id/textViewClimbingDuration"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:text="Durasi Pendakian     : 2-4 hari" />
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="20dp" />
+
+        <TextView
+            android:id="@+id/textViewMitos"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Mitos:"
+            tools:text="Mitos: Mitos yang paling terkenal tentang Gunung Rinjani adalah tentang Dewi Anjani, penguasa Gunung Rinjani....." />
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="20dp" />
+
+        <TextView
+            android:id="@+id/textViewDescription"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Deskripsi:"
+            tools:text="Gunung Rinjani terletak di Pulau Lombok, Provinsi Nusa Tenggara Barat. Dengan ketinggian puncak mencapai 3.726....." />
+
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,178 @@
+<resources>
+    <string name="app_name">Indo Mount</string>
+
+    <string name="moutains_name">Nama Gunung</string>
+    <string name="description">Deskripsi</string>
+    <string name="desc">Mitos</string>
+    <string name="mLocation">Letak Geografi	</string>
+    <string name="mMdpl">Ketinggian Puncak</string>
+    <string name="mType">Jenis Gunung</string>
+    <string name="mTemp">Suhu Terdingin</string>
+    <string name="mDuration">Durasi Pendakian</string>
+
+    <string-array name="data_name">
+        <item>Gunung Rinjani</item>
+        <item>Gunung Semeru</item>
+        <item>Gunung Merbabu</item>
+        <item>Gunung Arjuno</item>
+        <item>Gunung Parahu</item>
+        <item>Gunung Kerinci</item>
+        <item>Gunung Bromo</item>
+        <item>Gunung Ijen</item>
+        <item>Gunung Gede</item>
+        <item>Gunung Sumbing</item>
+        <item>Gunung Sindoro</item>
+        <item>Gunung Slamet</item>
+        <item>Gunung Kelimutu</item>
+        <item>Gunung Jayawijaya</item>
+        <item>Gunung Agung</item>
+    </string-array>
+
+    <string-array name="data_desc">
+        <item>Gunung Rinjani terletak di Pulau Lombok, Provinsi Nusa Tenggara Barat. Dengan ketinggian puncak mencapai 3.726 meter di atas permukaan laut, Gunung Rinjani adalah gunung tertinggi kedua di Indonesia. Gunung ini adalah kompleks gunung berapi besar yang memiliki danau kawah aktif bernama Segara Anak di puncaknya. Pendakian Gunung Rinjani menawarkan pemandangan alam yang menakjubkan, mulai dari hutan tropis hingga savana yang luas. Puncak Rinjani juga menjadi tempat untuk menyaksikan matahari terbit yang spektakuler. Gunung Rinjani memiliki suhu terdingin sekitar 5°C di malam hari. Durasi pendakian bervariasi antara 2 hingga 4 hari tergantung pada rute pendakian yang dipilih.</item>
+        <item>Gunung Semeru terletak di Jawa Timur dan merupakan gunung tertinggi di Pulau Jawa dengan ketinggian mencapai 3.676 meter di atas permukaan laut. Gunung ini adalah gunung berapi tertinggi di Indonesia dan masih aktif meletus. Pendakian Gunung Semeru menawarkan pengalaman yang menantang dengan pemandangan alam yang spektakuler, termasuk kawah aktif bernama Jonggring Saloko. Fenomena alam yang menarik seperti lahar dingin dan awan panas sering terjadi di gunung ini. Gunung Semeru memiliki suhu terdingin sekitar 2°C di malam hari. Durasi pendakian biasanya berkisar antara 2 hingga 3 hari tergantung pada kondisi cuaca dan jalur pendakian yang dipilih.</item>
+        <item>Gunung Merbabu terletak di Jawa Tengah, dengan ketinggian puncak mencapai 3.145 meter di atas permukaan laut. Gunung ini adalah stratovolcano aktif dan pendakian menuju puncaknya menawarkan pemandangan alam yang menakjubkan. Gunung Merbabu dikelilingi oleh hutan hujan tropis yang lebat serta savana yang indah. Puncak Merbabu menyuguhkan panorama yang luas, termasuk pemandangan Gunung Merapi, Gunung Sindoro, dan Gunung Sumbing. Gunung Merbabu memiliki suhu terdingin sekitar 5°C di malam hari. Durasi pendakian biasanya berkisar antara 1 hingga 2 hari tergantung pada rute pendakian yang dipilih.</item>
+        <item>Gunung Arjuno terletak di Jawa Timur dan memiliki ketinggian puncak mencapai 3.339 meter di atas permukaan laut. Gunung ini adalah stratovolcano yang masih aktif dan menjadi bagian dari rangkaian Pegunungan Arjuno-Welirang. Pendakian Gunung Arjuno menawarkan pemandangan alam yang memukau, termasuk hutan tropis yang lebat dan panorama pegunungan yang luas. Gunung Arjuno memiliki suhu terdingin sekitar 4°C di malam hari. Durasi pendakian biasanya berkisar antara 1 hingga 2 hari tergantung pada rute pendakian yang dipilih.</item>
+        <item>Gunung Parahu terletak di Jawa Barat, dengan ketinggian puncak mencapai 2.597 meter di atas permukaan laut. Gunung ini merupakan stratovolcano yang menawarkan pendakian yang menarik bagi para pendaki. Pendakian Gunung Parahu memungkinkan para pendaki untuk menikmati keindahan alam seperti hutan hujan tropis yang lebat, serta pemandangan indah dari puncaknya. Gunung Parahu memiliki suhu terdingin sekitar 10°C di malam hari. Durasi pendakian biasanya hanya memakan waktu satu hari.</item>
+        <item>Gunung Kerinci terletak di Kabupaten Kerinci, Provinsi Jambi, Sumatera Barat, Indonesia. Dengan ketinggian puncak mencapai 3.805 meter di atas permukaan laut, Gunung Kerinci adalah gunung tertinggi di Pulau Sumatera dan merupakan stratovolcano aktif. Pendakian Gunung Kerinci menawarkan pengalaman yang menantang dengan pemandangan alam yang spektakuler, termasuk hutan tropis yang lebat dan savana yang indah. Puncak Gunung Kerinci juga terkadang ditutupi oleh salju. Gunung ini memiliki suhu terdingin yang bisa mencapai -5°C, terutama di malam hari. Durasi pendakian biasanya berkisar antara 2 hingga 3 hari tergantung pada kondisi cuaca dan jalur pendakian yang dipilih.</item>
+        <item>Gunung Bromo terletak di Taman Nasional Bromo Tengger Semeru, Provinsi Jawa Timur, Indonesia. Dengan ketinggian puncak mencapai 2.329 meter di atas permukaan laut, Gunung Bromo adalah salah satu gunung berapi paling terkenal di Indonesia. Pendakian Gunung Bromo menawarkan pemandangan alam yang spektakuler, terutama saat matahari terbit dari puncak gunung. Gunung Bromo memiliki suhu terdingin sekitar 5°C di malam hari. Durasi pendakian biasanya hanya memakan waktu satu hari, karena pendakian dilakukan menuju kawah gunung yang relatif mudah dijangkau.</item>
+        <item>Gunung Ijen terletak di Kabupaten Banyuwangi, Provinsi Jawa Timur, Indonesia. Dengan ketinggian puncak mencapai 2.799 meter di atas permukaan laut, Gunung Ijen terkenal dengan kawahnya yang mengeluarkan api biru dan danau asam. Pendakian Gunung Ijen menawarkan pengalaman yang unik dengan pemandangan alam yang menakjubkan, terutama saat matahari terbit dan melihat blue fire di dalam kawah. Gunung Ijen memiliki suhu terdingin sekitar 10°C di malam hari. Durasi pendakian biasanya hanya memakan waktu satu hari, karena pendakian menuju kawah gunung yang relatif mudah dijangkau.</item>
+        <item>Gunung Gede terletak di Kabupaten Bogor dan Kabupaten Cianjur, Provinsi Jawa Barat, Indonesia. Dengan ketinggian puncak mencapai 2.958 meter di atas permukaan laut, Gunung Gede adalah salah satu gunung tertinggi di Jawa Barat. Pendakian Gunung Gede menawarkan pengalaman yang menarik dengan pemandangan alam yang indah, termasuk hutan tropis yang lebat dan air terjun yang mempesona. Gunung Gede memiliki suhu terdingin sekitar 10°C di malam hari. Durasi pendakian biasanya berkisar antara 1 hingga 2 hari tergantung pada rute pendakian yang dipilih.</item>
+        <item>Gunung Sumbing terletak di Kabupaten Temanggung dan Kabupaten Wonosobo, Provinsi Jawa Tengah, Indonesia. Dengan ketinggian puncak mencapai 3.371 meter di atas permukaan laut, Gunung Sumbing adalah salah satu gunung tertinggi di Jawa Tengah. Pendakian Gunung Sumbing menawarkan pemandangan alam yang menakjubkan, terutama saat matahari terbit dan melihat panorama pegunungan yang luas. Gunung Sumbing memiliki suhu terdingin sekitar 5°C di malam hari. Durasi pendakian biasanya berkisar antara 1 hingga 2 hari tergantung pada rute pendakian yang dipilih.</item>
+        <item>Gunung Sindoro terletak di Kabupaten Temanggung dan Kabupaten Wonosobo, Provinsi Jawa Tengah, Indonesia. Dengan ketinggian puncak mencapai 3.153 meter di atas permukaan laut, Gunung Sindoro adalah gunung berapi yang masih aktif. Pendakian Gunung Sindoro menawarkan pengalaman mendaki yang menarik dengan pemandangan alam yang indah, termasuk hutan tropis yang lebat dan savana yang luas. Gunung Sindoro memiliki suhu terdingin sekitar 4°C di malam hari. Durasi pendakian biasanya berkisar antara 1 hingga 2 hari tergantung pada rute pendakian yang dipilih.</item>
+        <item>Gunung Slamet terletak di Jawa Tengah, Indonesia, dengan ketinggian puncak mencapai 3.428 meter di atas permukaan laut. Gunung ini adalah salah satu gunung tertinggi di Pulau Jawa dan merupakan stratovolcano yang masih aktif. Pendakian Gunung Slamet menawarkan pengalaman yang menantang dengan pemandangan alam yang indah, termasuk hutan tropis yang lebat dan padang rumput alpin. Gunung Slamet memiliki suhu terdingin sekitar 5°C di malam hari. Durasi pendakian biasanya berkisar antara 2 hingga 3 hari tergantung pada rute pendakian yang dipilih.</item>
+        <item>Gunung Kelimutu terletak di Pulau Flores, Provinsi Nusa Tenggara Timur, Indonesia. Dengan ketinggian puncak mencapai 1.639 meter di atas permukaan laut, Gunung Kelimutu terkenal dengan tiga danau kawah berwarna yang berbeda. Pendakian Gunung Kelimutu menawarkan pengalaman yang unik dengan pemandangan alam yang menakjubkan, terutama saat matahari terbit dan melihat warna-warni danau kawah. Gunung Kelimutu memiliki suhu terdingin sekitar 10°C di malam hari. Durasi pendakian biasanya hanya memakan waktu satu hari.</item>
+        <item>Gunung Jayawijaya, juga dikenal sebagai Puncak Jaya, adalah gunung tertinggi di Indonesia dan Oseania, terletak di Provinsi Papua. Dengan ketinggian puncak mencapai 4.884 meter di atas permukaan laut, Gunung Jayawijaya terletak di wilayah yang sangat terpencil dan sulit dijangkau. Pendakian Gunung Jayawijaya menawarkan tantangan ekstrem dan memakan waktu cukup lama, biasanya berkisar antara 5 hingga 7 hari. Gunung ini memiliki suhu terdingin yang sangat rendah, sering turun di bawah -10°C, terutama di puncaknya yang tertutup salju sepanjang tahun.</item>
+        <item>Gunung Agung terletak di Pulau Bali, Indonesia, dengan ketinggian puncak mencapai 3.142 meter di atas permukaan laut. Gunung ini adalah gunung tertinggi di Bali dan masih dianggap sebagai gunung suci dalam agama Hindu. Pendakian Gunung Agung menawarkan pengalaman spiritual dan pemandangan alam yang menakjubkan, terutama saat matahari terbit dari puncak gunung. Gunung Agung memiliki suhu terdingin sekitar 10°C di malam hari. Durasi pendakian biasanya berkisar antara 1 hingga 2 hari tergantung pada rute pendakian yang dipilih.</item>
+    </string-array>
+
+    <string-array name="data_myth">
+        <item>Mitos yang paling terkenal tentang Gunung Rinjani adalah tentang Dewi Anjani, penguasa Gunung Rinjani. Konon, Dewi Anjani melarang pendaki untuk berkeluh kesah dan memikirkan hal-hal negatif selama pendakian. Dia diyakini mengawasi para pendaki dan memberikan perlindungan kepada mereka yang menjalani pendakian dengan pikiran yang jernih dan hati yang tulus.</item>
+        <item>Di Gunung Semeru terdapat Danau Ranu Kumbolo yang konon dihuni oleh seekor ikan mas dan Dewi berkebaya kuning. Mitos populer lainnya adalah tentang Tanjakan Cinta, di mana pendaki diyakini akan mendapatkan jodoh abadi jika berhasil melewati tanjakan tersebut tanpa menoleh ke belakang. Paku Pulau Jawa yang diyakini memberikan keberuntungan juga merupakan bagian dari mitos populer Gunung Semeru.</item>
+        <item>Mitos paling terkenal tentang Gunung Merbabu adalah asal-usul namanya. Menurut cerita rakyat, gunung ini terbentuk karena ulah seorang raksasa bernama Bakuh yang memakan ternak warga. Akibatnya, ia dihukum oleh seorang bidadari bernama Retna Lestari, yang menjadikannya Gunung Merbabu.</item>
+        <item>Mitos populer di Gunung Arjuno adalah tentang Pasar Setan, Alas Lali Jiwo, dan adanya suara gamelan misterius di malam hari. Konon, jumlah orang yang mendaki harus ganjil untuk menghindari kesialan. Mitos juga mencakup petilasan dan keberadaan suatu rombongan baju putih yang diyakini memiliki makna spiritual.</item>
+        <item>Di Gunung Parahu terdapat mitos tentang Pintu Gaib, atau lebih dikenal dengan Oyot Rimpang, yang diyakini sebagai gerbang menuju dimensi lain. Orang-orang setempat percaya bahwa siapa pun yang berani melintasi pintu gaib ini akan mendapatkan keberuntungan atau bahkan dapat mengakses pengetahuan gaib.</item>
+        <item>Gunung Kerinci dipercaya dijaga oleh Manusia Harimau yang menjaga kesucian alam sekitarnya. Mitos populer lainnya adalah tentang Hantu Gendong yang diyakini menghantui pendaki yang tersesat di lereng gunung. Selain itu, terdapat larangan untuk berada di puncak Gunung Kerinci saat pukul 12 malam karena diyakini sebagai waktu yang tidak aman.</item>
+        <item>Gunung Bromo dianggap sebagai area kerajaan gaib yang dihuni oleh dewa-dewi ajaran Hindu seperti Dewa Brahma, Dewa Siwa, dan Wisnu, serta punggawanya. Konon, pendaki yang berani menginjakkan kaki di wilayah kerajaan gaib ini tanpa meminta izin atau mengganggu kerukunan akan mengundang kemarahan dari para dewa.</item>
+        <item>Mitos populer di Gunung Ijen adalah tentang Kawah Ijen yang konon menjadi tempat terbunuhnya banyak tentara VOC Belanda oleh serangan para pejuang Indonesia. Kawah ini dipercaya menyimpan energi negatif dari peristiwa-peristiwa tragis tersebut, dan pendaki dilarang berlama-lama di sekitar kawah pada malam hari karena diyakini sebagai waktu yang paling angker.</item>
+        <item>Gunung Gede diyakini memiliki alun-alun yang sakral di mana energi spiritual berkumpul. Pendaki sering melakukan ritual atau meditasi di alun-alun ini untuk mendapatkan keberkahan dan perlindungan selama pendakian mereka. Selain itu, terdapat cerita tentang keberadaan raksasa hitam yang menjaga kelestarian alam Gunung Gede.</item>
+        <item>Mitos populer di Gunung Sumbing adalah tentang keberadaan peri di atas gunung yang dipercaya menjaga keseimbangan alam dan memberikan keberkahan kepada pendaki yang berhati baik. Ada juga cerita tentang orang tua yang menghisap menyan di lereng gunung untuk mendapatkan keberuntungan dan perlindungan dari roh-roh alam.</item>
+        <item>Gunung Sindoro diyakini dihuni oleh jin baik yang membenci pendaki yang melakukan perbuatan maksiat di kawasan gunung. Mitos ini menegaskan pentingnya menjaga kesucian dan kebersihan spiritual selama pendakian. Jin baik dipercaya memberikan bimbingan dan perlindungan kepada mereka yang berbuat baik dan berhati tulus.</item>
+        <item>Gunung Slamet sering dianggap sebagai tempat angker karena keberadaan pasar siluman dan gua slamet di dalamnya. Mitos ini menciptakan aura misteri di sekitar gunung dan mendorong pendaki untuk menjaga keselamatan dan hati-hati selama pendakian. Mbah Rantasari yang bersemayam di pohon besar juga menjadi cerita yang menambah ketegangan di Gunung Slamet.</item>
+        <item>Mitos yang paling populer tentang Gunung Kelimutu adalah bahwa gunung ini merupakan tempat berkumpulnya jiwa-jiwa orang yang sudah meninggal. Konon, setiap danau kawah mewakili tempat tinggal jiwa-jiwa yang berbeda-beda, dan perubahan warna air di danau-danau tersebut diyakini sebagai pertanda aktivitas spiritual.</item>
+        <item>Gunung Jayawijaya memiliki banyak misteri, termasuk Misteri Danau Habema dan penampakan makhluk luar angkasa. Mitos ini menambah daya tarik dan ketegangan bagi pendaki yang ingin menjelajahi gunung tertinggi di Indonesia. Seiring dengan itu, ada larangan untuk membahas cerita-cerita mistis yang mungkin mengganggu roh-roh alam di sekitar gunung.</item>
+        <item>Mitos yang paling terkenal tentang Gunung Agung adalah larangan membawa daging sapi atau babi saat melakukan pendakian ke puncaknya. Ini diyakini sebagai tindakan yang dapat mengganggu roh-roh suci dan memicu kemarahan alam. Pendaki diharapkan menghormati larangan ini untuk menjaga kedamaian dan keselamatan selama pendakian.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/gunung_rinjani</item>
+        <item>@drawable/gunung_semeru</item>
+        <item>@drawable/gunung_merbabu</item>
+        <item>@drawable/gunung_arjuno</item>
+        <item>@drawable/gunung_parahu</item>
+        <item>@drawable/gunung_kerinci</item>
+        <item>@drawable/gunung_bromo</item>
+        <item>@drawable/gunung_ijen</item>
+        <item>@drawable/gunung_gede</item>
+        <item>@drawable/gunung_sumbing</item>
+        <item>@drawable/gunung_sindoro</item>
+        <item>@drawable/gunung_slamet</item>
+        <item>@drawable/gunung_kelimutu</item>
+        <item>@drawable/gunung_jayawijaya</item>
+        <item>@drawable/gunung_agung</item>
+    </integer-array>
+
+    <string-array name="data_letak">
+        <item>Lombok Utara, Nusa Tenggara Barat, Indonesia.</item>
+        <item>Kabupaten Malang dan Kabupaten Lumajang, Jawa Timur, Indonesia.</item>
+        <item>Kabupaten Magelang, Kabupaten Boyolali, dan Kabupaten Semarang, Jawa Tengah, Indonesia.</item>
+        <item>Kabupaten Malang dan Kabupaten Pasuruan, Jawa Timur, Indonesia.</item>
+        <item>Kabupaten Magelang, Jawa Tengah, Indonesia.</item>
+        <item>Kabupaten Kerinci, Jambi, Sumatera Barat, Indonesia.</item>
+        <item>Taman Nasional Bromo Tengger Semeru, Jawa Timur, Indonesia.</item>
+        <item>Kabupaten Banyuwangi, Jawa Timur, Indonesia.</item>
+        <item>Kabupaten Bogor dan Kabupaten Cianjur, Jawa Barat, Indonesia.</item>
+        <item>Kabupaten Temanggung dan Kabupaten Wonosobo, Jawa Tengah, Indonesia.</item>
+        <item>Kabupaten Temanggung dan Kabupaten Wonosobo, Jawa Tengah, Indonesia.</item>
+        <item>Kabupaten Purbalingga, Kabupaten Banyumas, Kabupaten Tegal, dan Kabupaten Brebes, Jawa Tengah, Indonesia.</item>
+        <item>Ende, Nusa Tenggara Timur, Indonesia.</item>
+        <item>Papua, Indonesia.</item>
+        <item>Kabupaten Karangasem, Bali, Indonesia.</item>
+    </string-array>
+
+    <string-array name="data_ketinggian">
+        <item>3.726 MDPL.</item>
+        <item>3.676 MDPL.</item>
+        <item>3.145 MDPL.</item>
+        <item>3.339 MDPL.</item>
+        <item>2.597 MDPL.</item>
+        <item>3.805 MDPL.</item>
+        <item>2.329 MDPL.</item>
+        <item>2.799 MDPL.</item>
+        <item>2.958 MDPL.</item>
+        <item>3.371 MDPL.</item>
+        <item>3.153 MDPL.</item>
+        <item>3.428 MDPL.</item>
+        <item>1.639 MDPL.</item>
+        <item>4.884 MDPL.</item>
+        <item>3.142 MDPL.</item>
+    </string-array>
+
+    <string-array name="data_jenis">
+        <item>Stratovolcano aktif.</item>
+        <item>Stratovolcano aktif.</item>
+        <item>Stratovolcano aktif.</item>
+        <item>Stratovolcano.</item>
+        <item>Stratovolcano.</item>
+        <item>Stratovolcano aktif.</item>
+        <item>Stratovolcano aktif.</item>
+        <item>Stratovolcano aktif.</item>
+        <item>Stratovolcano.</item>
+        <item>Stratovolcano.</item>
+        <item>Stratovolcano.</item>
+        <item>Stratovolcano.</item>
+        <item>Stratovolcano.</item>
+        <item>Stratovolcano.</item>
+        <item>Stratovolcano aktif.</item>
+    </string-array>
+
+    <string-array name="data_suhu">
+        <item>5°C</item>
+        <item>2°C</item>
+        <item>5°C</item>
+        <item>4°C</item>
+        <item>10°C</item>
+        <item>-5°C</item>
+        <item>5°C</item>
+        <item>10°C</item>
+        <item>10°C</item>
+        <item>5°C</item>
+        <item>4°C</item>
+        <item>5°C</item>
+        <item>10°C</item>
+        <item>-10°C</item>
+        <item>10°C</item>
+    </string-array>
+
+    <string-array name="data_durasi">
+        <item>2-4 hari</item>
+        <item>2-3 hari</item>
+        <item>1-2 hari</item>
+        <item>1-2 hari</item>
+        <item>1 hari</item>
+        <item>2-3 hari</item>
+        <item>1 hari</item>
+        <item>1 hari</item>
+        <item>1-2 hari</item>
+        <item>1-2 hari</item>
+        <item>1-2 hari</item>
+        <item>2-3 hari</item>
+        <item>1 hari</item>
+        <item>5-7 hari</item>
+        <item>1-2 hari</item>
+
+    </string-array>
+    <string name="title_activity_about">AboutActivity</string>
+
+
+</resources>
